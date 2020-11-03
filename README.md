@@ -8,7 +8,7 @@
 
 ## 📝 Description
 
-**Api-Coin** Api-Coin It is a project that implements a simple cryptocurrency query APIs using native features of the javascript language the API Fetch that provides a JavaScript interface to access and manipulate parts of the HTTP pipeline, such as requests and responses. It also provides the global fetch () method, which provides an easy and logical way to asynchronously fetch resources across the network.
+**Api-Coin** It is a project that implements a simple cryptocurrency query APIs using native features of the javascript language the API Fetch that provides a JavaScript interface to access and manipulate parts of the HTTP pipeline, such as requests and responses. It also provides the global fetch () method, which provides an easy and logical way to asynchronously fetch resources across the network.
 
 ---
 
