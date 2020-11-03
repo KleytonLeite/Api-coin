@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/KleytonLeite/Api-coin.svg)](http://hits.dwyl.com/KleytonLeite/Api-coin-git)
 
 <h1 align="center">
-  <img src="../coin.jpg">
+  <img src="./coin.jpg">
 </h1>
 
 ## 📝 Description
